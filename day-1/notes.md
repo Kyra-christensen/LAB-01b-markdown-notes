@@ -14,3 +14,5 @@ The `ACP` abbreviations means **Add Commit Push**
 To rename a file/directory : 
 ```
 mv [file/directory you want to rename] [the new name]
+```
+To copy things into GitBash instead of using `ctrl + v` use `shift + ins`
